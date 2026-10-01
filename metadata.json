@@ -1,0 +1,6 @@
+{
+  "name": "AI Prompt Engineering",
+  "description": "Master AI Prompt Engineering from beginner to advanced with comprehensive lessons, interactive playground, quizzes, and certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
